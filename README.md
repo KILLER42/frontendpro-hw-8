@@ -1,2 +1,1 @@
-# frontendpro-hw-8
-Homework 8
+**Homework description**
